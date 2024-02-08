@@ -29,7 +29,7 @@ Recovery Sites:  <br/>
 <img src="https://static.wixstatic.com/media/0e85f1_a420ced038d9416aa1d7b71d5dc908a4~mv2.png"/>
 <br />
 <br />
-Spatial Patterns and The Suspect's Home: <br/>
+Spatial Patterns and Suspect Home: <br/>
 <img src="https://static.wixstatic.com/media/0e85f1_81a09d8eae1845029cad7a28779dfb82~mv2.png"/>
 <br />
 <br />
