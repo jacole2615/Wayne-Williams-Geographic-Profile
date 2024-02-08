@@ -10,9 +10,9 @@ The Wayne Williams case, also known as the "Atlanta Child Murders," involved a t
 - <b>Microsoft Excel</b> 
 - <b>Google Earth</b>
 
-<h2>Environments Used </h2>
+<h2>Process</h2>
 
-- <b>Windows 10</b> (21H2)
+I utilized Microsoft Excel as my primary tool to construct a geographical profile. The methodology encompassed a meticulous process of gathering data on abduction and body recovery locations, which was then systematically entered into an Excel spreadsheet. Leveraging the power of Excel's formulas, I executed distance calculations, conducted spatial analyses, and derived pertinent statistical measures. By creating scatter plots and charts within Excel, I visualized the geographical distribution of the events, aiming to identify discernible patterns or clusters. The application of mathematical models facilitated the identification of potential hotspots, offering insights into offender behavior and movement patterns. While Excel was effective for initial data organization and basic analysis, I do also recognize that specialized Geographic Information System (GIS) software could have provided more advanced capabilities for a comprehensive analysis. As a college student without access to such software, I had to develop and employ my own methodologies to derive meaningful insights from the available data.
 
 <h2>Program walk-through:</h2>
 
