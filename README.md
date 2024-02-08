@@ -1,4 +1,4 @@
-<h1>Atlanta Child Murders Geographic Profile</h1>
+<h1>Geographic Profiling - Atlanta Child Murders</h1>
 
 
 <h2>Description</h2>
